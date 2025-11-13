@@ -13,12 +13,15 @@ my_list = [1, 3.14, "Car"]
 
 # Arithmetic examples(Print them)
 # add a & b
+addition = a + b;
 
 # multiply a & b
+multiplication = a * b;
 
 # multiply a & b
 
 #divide b/a
+division = b / a;
 
 #remainder b to a
 
@@ -27,4 +30,8 @@ my_list = [1, 3.14, "Car"]
 # Store result in a variable
 my_result = 10 * 2
 print(my_result)   # 20
+print(addition)l
+print(multiplication)
+print(division)
+
 
